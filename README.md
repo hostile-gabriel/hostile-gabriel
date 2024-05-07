@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel 🦊
+# Hi, I'm Gabriel 🐸
 
 ![](https://komarev.com/ghpvc/?username=hostile-gabriel&color=F7630C)
 
