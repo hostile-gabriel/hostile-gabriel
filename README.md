@@ -7,6 +7,8 @@ I'm a backend developer & founder of [Hostile](https://github.com/hostile), a cy
 
 In 2023, I started pursuing multiple qualifications in Computer Science, along with collaborating on larger projects.
 
+In 2024, after a long programming hiatus, I've initiated development on multipe passion projects, attempting to hone my frontend development skills; in order to independently develop & maintain multiple full-stack web apps.
+
 
 ## 💬 Skills & Interests
 My interests are pivoted around backend web and software development, and I aspire to explore this more in the future. I am a large believer in the wider adoption of collectible usernames.
