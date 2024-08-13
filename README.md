@@ -1,4 +1,4 @@
-# Hi, I'm Gabriel 🐸
+# Hi, I'm Gabriel 🔎
 
 ![](https://komarev.com/ghpvc/?username=hostile-gabriel&color=4720ed)
 
@@ -12,10 +12,10 @@ My interests are pivoted around backend web and software development, and I'm pa
 
 While I'm focused on web development currently, my skills span across multiple stacks and countless languages. Here's what I work best with:
 
-Languages - Python, JavaScript / TypeScript\n\n
-Backend - Express.js, Flask
-Frontend - HTML / CSS, React.js / Next.js, TailwindCSS
-Extra - REST, Websockets, Docker, Linux, Agile / SCRUM
+**Languages** - Python, JavaScript / TypeScript <br>
+**Backend** - Express.js, Flask <br>
+**Frontend** - HTML / CSS, React.js / Next.js, TailwindCSS <br>
+**Extra** - REST, Websockets, Docker, Linux, Agile / SCRUM <br>
 
 
 ## 💬 Contact Me
