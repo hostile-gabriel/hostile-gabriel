@@ -18,7 +18,7 @@ While I'm focused on web development currently, my skills span across multiple s
 **Languages** - Python, JavaScript / TypeScript <br>
 **Backend** - Express.js, Flask <br>
 **Frontend** - HTML / CSS, React.js / Next.js, TailwindCSS <br>
-**Extra** - REST, Websockets, Docker, Linux, Agile / SCRUM, CI/CD, Jenkins, AWS, Mongo, PostgreSQL <br>
+**Extra** - REST, Websockets, Docker, Linux, Agile / SCRUM, CI/CD, Jenkins, AWS, Vercel, Mongo, PostgreSQL <br>
 <br>
 ## 💬 Contact Me
 You are free to contact me via email at gabriel@hostile.org regarding any queries or questions.
