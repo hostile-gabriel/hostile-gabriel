@@ -13,7 +13,7 @@ My interests are primarily pivoted around full-stack web development, however I 
 **Languages** - Python, JavaScript / TypeScript <br>
 **Backend** - Express.js, Flask <br>
 **Frontend** - HTML / CSS, React.js / Next.js, TailwindCSS <br>
-**Database** - MongoDB, PostgreSQL
+**Database** - MongoDB, PostgreSQL<br>
 **DevOps** - AWS, Vercel, Jenkins, GitHub Actions, CI/CD, Docker<br>
 **Extra** - REST, Websockets, Linux, Agile / SCRUM<br><br>
 ## 💬 Contact Me
