@@ -14,7 +14,7 @@ My interests are primarily pivoted around full-stack web development, however I 
 **Backend** - Express.js, Flask <br>
 **Frontend** - HTML / CSS, React.js / Next.js, TailwindCSS <br>
 **Database** - MongoDB, PostgreSQL
-**DevOps** - AWS, Vercel, Jenkins, GitHub Actions, CI/CD, Docker
+**DevOps** - AWS, Vercel, Jenkins, GitHub Actions, CI/CD, Docker<br>
 **Extra** - REST, Websockets, Linux, Agile / SCRUM<br><br>
 ## 💬 Contact Me
 You are free to contact me via email at gabriel@hostile.org regarding any queries or questions.
