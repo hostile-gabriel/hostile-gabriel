@@ -10,11 +10,28 @@ I'm a passionate Full-Stack Developer and the founder of [@Hostile](https://gith
 ## 🧠 Skills & Interests
 My interests are primarily pivoted around full-stack web development, however I have accumulated a host of different skills spanning a variety of technologies.
 
-**Languages** - Python, JavaScript / TypeScript <br>
-**Backend** - Express.js, Flask <br>
-**Frontend** - HTML / CSS, React.js / Next.js, TailwindCSS <br>
-**Database** - MongoDB, PostgreSQL
-**Extra** - REST, Websockets, Docker, Linux, Agile / SCRUM, CI/CD, Jenkins, AWS, Vercel<br>
+**Languages:**
+- Python
+- JavaScript / TypeScript
+
+**Backend:**
+- Express.js
+- Flask
+
+**Frontend:**
+- HTML / CSS
+- React.js / Next.js
+- TailwindCSS
+
+**DevOps & Tools:**
+- Docker
+- Jenkins
+- AWS
+- Vercel
+
+**Databases:**
+- MongoDB
+- PostgreSQL
 <br>
 ## 💬 Contact Me
 You are free to contact me via email at gabriel@hostile.org regarding any queries or questions.
