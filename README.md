@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=hostile-gabriel&color=0c50a3)
 
 ## 🛠 About Me
-I'm a passionate Full-Stack Developer and the founder of [@Hostile](https://github.com/hostile), a cyber security firm focused on OSINT investigations and data aggregation across the web. With over 4 years of experience, I’m dedicated to building innovative solutions and constantly expanding my skill set to stay ahead in the rapidly evolving tech industry.
+I'm a passionate Full-Stack Developer and the founder of [@Hostile](https://github.com/hostile), a cyber security firm focused on OSINT investigations and data aggregation across the web. With over 4 years of experience, I’m dedicated to building innovative solutions and constantly expanding my skill set to stay ahead in the rapidly evolving tech landscape.
 <br>
 
 
